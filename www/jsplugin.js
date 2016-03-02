@@ -1,4 +1,4 @@
-var JsPlugin = function() {};   
+var JsPlugin = {};   
 
 JsPlugin.prototype.alert = function() {  
     alert("I am a js plugin");  
